@@ -18,5 +18,25 @@
       "reminder": true,
       "id": 3
     }
+  ],
+  "students": [
+    {
+      "name": "Schlomo Siegelman",
+      "class": "Full Stack Flex Coding bootcamp",
+      "tuitionPaid": false,
+      "id": 1
+    },
+    {
+      "name": "JJ Gault",
+      "class": "Full Stack Flex Coding bootcamp",
+      "tuitionPaid": true,
+      "id": 2
+    },
+    {
+      "name": "Godzilla",
+      "class": "How to destroy cities",
+      "tuitionPaid": true,
+      "id": 3
+    }
   ]
 }
