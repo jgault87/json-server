@@ -1,19 +1,19 @@
 {
   "tasks": [
     {
-      "text": "Eat",
+      "text": "Eat food",
       "day": "08/17/2022 10:00am",
       "reminder": true,
       "id": 1
     },
     {
-      "text": "Code",
+      "text": "Commit code",
       "day": "08/18/2022 12:00pm",
       "reminder": false,
       "id": 2
     },
     {
-      "text": "Sleep",
+      "text": "Sleep good",
       "day": "08/20/2022 2:00AM",
       "reminder": true,
       "id": 3
@@ -21,7 +21,7 @@
   ],
   "students": [
     {
-      "name": "Schlomo Siegelman",
+      "name": "Harry Potter",
       "class": "Full Stack Flex Coding bootcamp",
       "tuitionPaid": false,
       "id": 1
@@ -37,6 +37,12 @@
       "class": "How to destroy cities",
       "tuitionPaid": true,
       "id": 3
+    },
+    {
+      "name": "Godzilla",
+      "class": "How to destroy cities",
+      "tuitionPaid": true,
+      "id": 4
     }
   ]
 }
