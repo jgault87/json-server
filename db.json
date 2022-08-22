@@ -17,6 +17,12 @@
       "day": "08/20/2022 2:00AM",
       "reminder": true,
       "id": 3
+    },
+    {
+      "text": "Master Angular framework",
+      "day": "10/20/2022 10:00AM",
+      "reminder": true,
+      "id": 4
     }
   ],
   "students": [
